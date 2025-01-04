@@ -14,7 +14,7 @@ template styling
 
 
 body {
-  background-image: url("/images/emeischool01.webp");
+  /* background-image: url("./images/emeischool01.webp"); */
   background-repeat: no-repeat;
   background-size: cover; /* Makes the image cover the entire viewport */
   background-position: center; /* Centers the image */
