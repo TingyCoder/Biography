@@ -38,7 +38,7 @@ width:1000px;
     padding: 0;
     display: flex;
     flex-direction: column;
-    background-image: url("./images/emeischool01.webp");
+    background-image: url("../images/emeischool01.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
