@@ -210,6 +210,7 @@ margin-right: 200px;
   }
   
   .round-image {
+    background-image: url("../images/emeichar01.jpg");
     width: 150px; /* Adjust width as needed */
     height: 150px; /* Ensure height matches width for a perfect circle */
     border-radius: 50%; /* Makes the image round */
